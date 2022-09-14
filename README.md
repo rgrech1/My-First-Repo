@@ -1,3 +1,3 @@
 # My-First-Repo
-I made a repository
-I love 🍨, 🏕️
+I made a repository!
+I love 🍨 and 🏕️.
